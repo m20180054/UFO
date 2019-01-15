@@ -1,6 +1,10 @@
 # UFO Sightings
 Project made for the course Data Visualization, Nova IMS, 2018
 
+### UFO Report
+
+> Final report of the project
+
 ### Scrubbed.csv
 
 > CSV file containing the data regarding UFO sightings
